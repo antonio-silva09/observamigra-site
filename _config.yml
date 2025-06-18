@@ -1,6 +1,6 @@
 title: "ObservaMigra"
-description: "Blog sobre migração, discursos públicos e políticas comparadas"
-theme: theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+
 # Navegação superior
 nav:
   - title: "Início"
