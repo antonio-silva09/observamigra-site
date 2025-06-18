@@ -1,0 +1,10 @@
+title: "ObservaMigra"
+description: "Blog sobre migração, discursos públicos e políticas comparadas"
+theme: jekyll-theme-cayman
+# Navegação superior
+nav:
+  - title: "Início"
+    url: "/"
+  - title: "Sobre"
+    url: "/sobre/"
+
